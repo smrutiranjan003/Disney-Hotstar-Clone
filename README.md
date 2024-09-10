@@ -54,6 +54,7 @@ Contributions are welcome! If you have ideas to improve the project, whether it'
 
 ## 💡 Conclusion
 
-Recreate the Disney+ Hotstar experience with this clone project. Immerse yourself in the world of entertainment, and feel free to tailor it to your specific needs. If you have any questions or feedback, feel free to reach out!
+Recreate the Disney+ Hotstar experience with this clone project. Immerse yourself in the world of entertainment, and feel free to tailor it to your specific needs. If you have any questions or feedback, feel free to reach out! via email: [smruti2923@gmail.com](mailto:smruti2923@gmail.com).
+
 
 ---
