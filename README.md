@@ -20,7 +20,7 @@ https://github.com/SanojAhamed/Hotstar-Clone/assets/97176600/04e7598a-f7f6-4f3f-
 - **Responsive Design**: The UI is fully responsive, providing an optimal viewing experience across all devices.
 
 
-## Getting Started
+## 🌱 Getting Started
 
 To experience the Disney+ Hotstar Clone, follow these steps:
 
