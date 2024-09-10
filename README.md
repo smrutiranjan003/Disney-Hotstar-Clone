@@ -3,8 +3,6 @@
 Welcome to the **Disney+ Hotstar Clone** project repository! This project is an attempt to replicate the features of the Disney+ Hotstar platform, offering a similar interface for streaming movies, TV shows, sports, and more. It is built to provide an engaging and seamless entertainment experience.
 
 
-# Disney+ Hotstar Clone
-
 ![image](https://github.com/SanojAhamed/Hotstar-Clone/assets/97176600/8823e771-282e-4a00-b284-d35548c3412a)
 
 
